@@ -1,2 +1,5 @@
 This is the first line in my file.
 Adding a 2nd line to the file.
+Adding third line to the file.
+Adding a 4TH line.
+
